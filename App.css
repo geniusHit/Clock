@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.hour{
+    transform-origin:10px 10px;
+}
+.minute{
+    transform-origin:14px 11px;
+}
+.seconds{
+    margin-top: 2px;
+    margin-left: 112px;
+    transform-origin: 52px 10px;
+}
